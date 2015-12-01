@@ -11,7 +11,7 @@ INSIDE_RADIUS = 2
 COLOR_INTERVAL = 250
 ROTATE_INTERVAL = 1
 DEG_SHIFT = 45
-DEG_PER_MS = 3
+DEG_PER_MS = 5
 
 '''
 Creates a modified array of colors based on the first
